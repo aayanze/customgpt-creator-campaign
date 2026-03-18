@@ -1,5 +1,16 @@
 CustomGPT Creator Selection
 
+## If we had to start this asap
+
+We can probably start with these creators:
+
+
+Reason:
+- All of these have clear repeat SaaS partnerships  
+- create workflow-based content  
+- strong alignment with operators / builders → higher chance of driving subscriptions  
+
+
 1. Creator Name: Daniel
 
 Multiple repeat partnerships:
