@@ -1,6 +1,6 @@
-CustomGPT Creator Selection
+## CustomGPT Creator Selection
 
-## If we had to start this asap
+If we had to start this asap
 
 We can probably start with these creators:
 
